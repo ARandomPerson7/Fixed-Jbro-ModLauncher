@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GameModLauncher.iml" filepath="$PROJECT_DIR$/.idea/modules/GameModLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GameModLauncher.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GameModLauncher.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libsu/GameModLauncher.libsu.iml" filepath="$PROJECT_DIR$/.idea/modules/libsu/GameModLauncher.libsu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zt-zip-1.14/GameModLauncher.zt-zip-1.14.iml" filepath="$PROJECT_DIR$/.idea/modules/zt-zip-1.14/GameModLauncher.zt-zip-1.14.iml" />
+    </modules>
+  </component>
+</project>
